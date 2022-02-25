@@ -14,25 +14,25 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': '92872c80ec'',
 }
 
 // Other
-global.owner = ['6283167714830','6288292024190','62882920241909','62882920241908','6281382420312']
-global.packname = 'Hisoka Morrow'
-global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.owner = ['6282160268332','6282128485388','0']
+global.packname = '\n\n\n\n\n\nBot\n\nStiker\n\nTercepat\n\n\n\n\n\n\n\n'
+global.author = '\n\n\n\nOne\n\nBot\n\nMulti\n\nDevice\n\n\n\n\n\n\n\n\n\n\n\n'
+global.sessionName = 'melisah'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '✾'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    success: '*✓ Success*',
+    admin: '*Fitur Khusus Admin Group!*',
+    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
+    owner: '*Fitur Khusus Owner Bot*',
+    group: '*Fitur Digunakan Hanya Untuk Group!*',
+    private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
+    bot: '*Fitur Khusus Pengguna Nomor Bot*',
+    wait: '*Processing..*',
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
